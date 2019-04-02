@@ -7,7 +7,7 @@ repo to include installation info, etc.
 
 In the meantime, here's a screenshot of how it currently looks.
 
-![](resource/grayt.jpg)
+![](images/grayt.jpg)
 
 If you want to use it now, feel free to do so. If you have
 `fast-syntax-highlighting` installed, just run `fast-theme` and pass the [ini
