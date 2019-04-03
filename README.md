@@ -11,7 +11,7 @@ In the meantime, here's a screenshot of how it currently looks.
 
 If you want to use it now, feel free to do so. If you have
 `fast-syntax-highlighting` installed, just run `fast-theme` and pass the [ini
-file](lib/grayt.ini) as the argument.
+file](themes/grayt.ini) as the argument.
 
 There are a few highlights that I haven't figured out yet. I've switched these
 to a bright green background so if I see something with that color, I can
