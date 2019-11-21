@@ -17,7 +17,7 @@ Script away in your terminal, now complete with an awesome -- nay, GRAYT --
 color-scheme!
 
 ## Screenshot
-![](images/grayt.jpg)
+![](https://user-images.githubusercontent.com/12698076/69294096-82930e00-0bd0-11ea-80ee-ed6725d801cf.jpg)
 
 ## This is a Work-In-Progress
 There are a few highlights that I haven't figured out yet. I've marked these
