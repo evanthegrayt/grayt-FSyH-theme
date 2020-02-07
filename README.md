@@ -29,3 +29,9 @@ know what these keywords highlight, please [submit an
 issue](https://github.com/evanthegrayt/grayt-FSyH-theme/issues/new) with a
 screenshot so I can add a real color to it.
 
+## Self-Promotion
+I do these projects for fun, and I enjoy knowing that they're helpful to people.
+Consider starring [the
+repository](https://github.com/evanthegrayt/grayt-FSyH-theme) if you like it! If
+you love it, follow me [on github](https://github.com/evanthegrayt)!
+
