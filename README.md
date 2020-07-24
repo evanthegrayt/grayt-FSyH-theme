@@ -1,4 +1,4 @@
-# grayt-FSyH-theme [WIP]
+# grayt-FSyH-theme
 My personal, colorful theme for the `fast-syntax-highlighting` `zsh` plugin.
 
 ## Installation
@@ -23,6 +23,8 @@ color-scheme!
 There are a few highlights that I haven't figured out yet. I've marked these
 with `TODO` in the `ini` file, and switched them to a bright green background
 (`bg:10`) so if I see something with that color, I can determine what it is.
+I've used this theme for almost two years though, and I've never seen any of
+them.
 
 That being said, if you see anything with bright green background color, or just
 know what these keywords highlight, please [submit an
